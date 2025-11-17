@@ -1,0 +1,1 @@
+var json_TORDESILHAS_13 = {"type":"FeatureCollection","name":"TORDESILHAS_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"begin":-46.6167,"end":-46.6167},"geometry":{"type":"MultiLineString","coordinates":[[[-46.6167,-90.0],[-46.6167,90.0]]]}}]}
